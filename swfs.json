@@ -93,10 +93,73 @@
       "type": "Game"
     },
     {
-      "location": "swfs/50ae22b00e710.swf.swf",
+      "location": "swfs/50ae22b00e710.swf",
       "title": "Treefrog Treasure",
       "author": "Center for Games Science",
       "authorLink": "https://www.centerforgamescience.com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/Angry%20Birds%20HD.swf",
+      "title": "Angry Birds HD",
+      "author": "Rovio",
+      "authorLink": "https://www.Rovio.com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/Bloons%20Tower%20Defense%205%20(BTD5).swf",
+      "title": "BTD5",
+      "author": "Ninja Kiwi",
+      "authorLink": "https://ninjakiwi.com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/Dig to China.swf",
+      "title": "Dig to China",
+      "author": "",
+      "authorLink": "https://www..com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/achievement3.swf",
+      "title": "Achievement Unlocked 3",
+      "author": "",
+      "authorLink": "https://www..com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/catmario.swf",
+      "title": "Cat Mario",
+      "author": "",
+      "authorLink": "https://www..com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/hardest-game.swf",
+      "title": "Hardest Game",
+      "author": "",
+      "authorLink": "https://www..com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/liftoff-2012.swf",
+      "title": "Liftoff 2012",
+      "author": "",
+      "authorLink": "https://www..com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/supermario63.swf",
+      "title": "Super Mario 63",
+      "author": "",
+      "authorLink": "https://www..com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/tangerine-tycoon.swf",
+      "title": "Tangerine Tycoon",
+      "author": "",
+      "authorLink": "https://www..com",
       "type": "Game"
     }
   ]
